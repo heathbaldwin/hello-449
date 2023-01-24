@@ -21,7 +21,7 @@ img {
 
 }
 .LeftBox{
-    width: 50%;
+    width: 45%;
     float: left;
     border-radius: 15px;
     background-color: lightgrey;
@@ -35,5 +35,6 @@ img {
     padding: 5px; 
 }
 .header{
-margin-bottom: -10px;
+margin-bottom: -30px;
 }
+
