@@ -18,12 +18,14 @@ img {
     height: 200px;
 }
 .LeftBox{
+    width: 50%;
     float: left;
     border-radius: 15px;
     background-color: lightgrey;
     padding: 5px;
 }
 .RightBox{
+    width: 50%;
     float: right; 
     border-radius: 15px;  
     background-color: lightgrey;
