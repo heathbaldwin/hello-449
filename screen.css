@@ -22,7 +22,7 @@ img {
 
 }
 .LeftBox{
-    width: 40%;
+    width: 43%;
     float: left;
     border-radius: 15px;
     background-color: rgb(235, 235, 235);
@@ -31,7 +31,7 @@ img {
     padding-bottom: 30px;
 }
 .RightBox{
-    width: 40%;
+    width: 43%;
     float: right; 
     border-radius: 15px;  
     background-color: rgb(235, 235, 235);
@@ -41,5 +41,8 @@ img {
 }
 .header{
 margin-bottom: -30px;
+}
+.picture{
+    padding-bottom: 40px;
 }
 
