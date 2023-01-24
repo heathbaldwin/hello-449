@@ -8,5 +8,5 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
-    background-size: cover;
+    size: 200px;
 }
