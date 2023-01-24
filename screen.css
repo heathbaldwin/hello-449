@@ -1,8 +1,9 @@
 body {
-    margin: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 h1 {
-    color: rgb(39, 39, 39);
+    color: rgb(62, 62, 62);
     font-size: 45px;
     font-weight: bold;
 }
@@ -16,6 +17,15 @@ img {
     width: 1000px;
     height: 200px;
 }
-.picture {
-    align-content: center;
+.LeftBox{
+    float: left;
+    border-radius: 15px;
+    background-color: lightgrey;
+    padding: 5px;
+}
+.RightBox{
+    float: right; 
+    border-radius: 15px;  
+    background-color: lightgrey;
+    padding: 5px; 
 }
