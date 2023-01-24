@@ -2,7 +2,7 @@ body {
     margin: 200px;
 }
 h1 {
-    color: rgb(95, 95, 95);
+    color: rgb(39, 39, 39);
     font-size: 45px;
     font-weight: bold;
 }
@@ -13,8 +13,8 @@ h2 {
 }
 img {
     border-radius: 15px;
-    width: 600px;
-    height: 300px;
+    width: 900px;
+    height: 150px;
 }
 .picture {
     align-content: center;
