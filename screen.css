@@ -11,6 +11,7 @@ h2 {
     color: black;
     font-size: 30px;
     font-weight: bold;
+    margin-bottom: -30px;
 }
 img {
     max-width: 100%;
@@ -24,15 +25,15 @@ img {
     width: 45%;
     float: left;
     border-radius: 15px;
-    background-color: lightgrey;
-    padding: 5px;
+    background-color: rgb(235, 235, 235);
+    padding: 30px;
 }
 .RightBox{
     width: 50%;
     float: right; 
     border-radius: 15px;  
-    background-color: lightgrey;
-    padding: 5px; 
+    background-color: rgb(235, 235, 235);
+    padding: 30px; 
 }
 .header{
 margin-bottom: -30px;
