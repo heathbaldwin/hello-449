@@ -28,10 +28,12 @@ img {
     padding: 5px;
 }
 .RightBox{
-
     width: 50%;
     float: right; 
     border-radius: 15px;  
     background-color: lightgrey;
     padding: 5px; 
+}
+.header{
+margin-bottom: none;
 }
